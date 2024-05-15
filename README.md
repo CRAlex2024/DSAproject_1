@@ -1,4 +1,4 @@
-# Student Data Processing Project
+# Code Labs Project
 
 This Code lab processes student data to generate email addresses, separate gender lists, identify names with special characters, calculate name similarities, and shuffle the student list.
 
