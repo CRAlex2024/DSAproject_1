@@ -1,0 +1,6 @@
+Number of male students: 0
+Number of female students: 0
+Special character names:
+ No.  Student Number           Student Name        DoB  Email Address Gender First Name      Last Name                   Email
+  55          137668  Orony, Charis Ng'wono 2000-01-16            NaN      F      Orony Charis Ng'wono ocharisngwono@gmail.com
+  63          145356 Waweru, Monika Ng'endo 2002-05-20            NaN      F     Waweru Monika Ng'endo wmonikangendo@gmail.com
